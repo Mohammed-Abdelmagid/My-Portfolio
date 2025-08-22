@@ -737,9 +737,10 @@ font-size: 35px;
         margin-bottom: 20px;
     }
     .contact .top-section h2 , .services .top-section h2, .projects .top-section h2, .about .top-section h2 {
-        font-size: 3px !important;
+        font-size: 30px !important;
     }
 }
+
 
 
 /* end responsive home*/
