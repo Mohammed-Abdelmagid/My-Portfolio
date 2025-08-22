@@ -344,7 +344,7 @@ transition: 0.4s;
 .layer{
   
   
-    width: 401px;
+    width: auto;
     height: 0;
     background: linear-gradient(rgba(0,0,0,0.1),rgb(9, 105, 170));
     position: absolute;
@@ -737,7 +737,7 @@ font-size: 35px;
         margin-bottom: 20px;
     }
     .contact .top-section h2 , .services .top-section h2, .projects .top-section h2, .about .top-section h2 {
-        font-size: 33px !important;
+        font-size: 3px !important;
     }
 }
 
