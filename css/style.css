@@ -739,8 +739,11 @@ font-size: 35px;
     .contact .top-section h2 , .services .top-section h2, .projects .top-section h2, .about .top-section h2 {
         font-size: 30px !important;
     }
+
+    .projects .layer{
+        width: 550px;
+    }
 }
 
-
-
+    
 /* end responsive home*/
